@@ -1,4 +1,1 @@
-# thenikolai.github.io
-NIKOLAI
-
-CHECK
+# Revelled
